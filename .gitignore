@@ -1,0 +1,8 @@
+estructura-de-la-aplicacion.txt
+login.php
+composer.json
+
+# Ignorar archivos de caché
+*.log
+*.cache
+*.tmp
